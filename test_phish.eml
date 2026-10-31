@@ -1,0 +1,11 @@
+From: "IT Support" <support@microsoft-update.com>
+To: victim@company.com
+Subject: Urgent: Password Expiration Notice
+Return-Path: <bounce@malicious-server.com>
+Received: from mail.malicious-server.com ([185.220.101.5]) by mx.com
+Content-Type: text/html; charset="UTF-8"
+
+<html><body>
+<p>Your password expires today. Please click the link below to keep your account active.</p>
+<a href="http://microsoft-update.com/login">Click here to update your password</a>
+</body></html>
