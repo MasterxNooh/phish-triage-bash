@@ -1,7 +1,0 @@
-PHISH TRIAGE REPORT: test_phish.eml
-Score: 6
-Verdict: \033[0;31mMALICIOUS\033[0m
-Findings:
- - From domain (microsoft-update.com) does not match Return-Path (malicious-server.com)
- - Missing Authentication-Results header
- - VT flagged IP 185.220.101.5 (12 engines)
